@@ -25,6 +25,8 @@ gem 'acts_as_votable', '~> 0.10.0'
 gem 'awesome_print'
 gem 'masonry-rails'
 gem 'activeadmin', '~> 1.0.0.pre2'
+gem 'devise'
+# gem 'client_side_validations'
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
 gem 'turbolinks'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
